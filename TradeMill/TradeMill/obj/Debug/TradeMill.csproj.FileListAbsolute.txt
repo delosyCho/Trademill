@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\bin\Debug\TradeMill.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\bin\Debug\TradeMill.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\bin\Debug\TradeMill.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.csproj.ResolveComReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\TradeMill\TradeMill\obj\Debug\TradeMill.Setting_Form.resources
